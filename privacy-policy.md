@@ -87,3 +87,15 @@ Silchar Medical College & Hospital (SMCH)
 **Email:** myinnovationshub47@gmail.com 
 
 **Phone:** 9954387127
+## Data Retention and Account Deletion
+
+We retain your personal account information only for as long as your account is active and you are an authorized affiliate of Silchar Medical College & Hospital (SMCH).
+
+### How to Delete Your Account and Data
+
+*   **In-App Deletion:** You can permanently delete your account and associated login data directly within the App. Navigate to the **Profile Settings** screen and click **"Delete Account & Data"**. This will immediately remove your credentials and profile information from our active database.
+*   **Web / Email Deletion Request:** If you no longer have access to the App, you can request account deletion by contacting the system administrator at **[drajit.smc01@gmail.com]**. Please send the email from the address registered to your account with the subject line "Account Deletion Request".
+
+### Data Retained for Legal and Audit Purposes
+
+Please note that because this application handles clinical workflows and medical test requisitions, any clinical records, patient data entries, and system audit logs you generated during your authorized use of the App cannot be deleted upon account termination. This data is strictly retained to comply with hospital governance, clinical audit trails, and Indian healthcare data regulations (including the DPDPA 2023).
