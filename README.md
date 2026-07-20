@@ -1,1 +1,1 @@
-# smc-digital-policies.
+# smc-digital-policies
