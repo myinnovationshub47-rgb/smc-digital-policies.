@@ -90,7 +90,7 @@ Motion Sensitivity: The app respects your system's "Reduce motion" accessibility
 
 Permissions Configuration: The administrative permissions panel utilizes a dense matrix layout (role × module × 5 checkboxes). Because this is inherited from a complex web UI table layout, it may be difficult to navigate using TalkBack on devices with smaller screens. We are aware of this usability limitation for this specific screen. All other application screens pass standard TalkBack navigation checks.
 
-**12. Contact Information**
+**13. Contact Information**
 
 For privacy-related inquiries, data requests, or to verify developer authorization, please contact:
 
