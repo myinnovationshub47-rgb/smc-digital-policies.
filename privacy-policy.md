@@ -73,6 +73,23 @@ Material changes to this Privacy Policy will be communicated via in-app notifica
 **11. Third-Party Licenses**
 This application utilizes various open-source libraries and components as compiled dependencies. The respective open-source licenses apply strictly to the original third-party library code and do not extend to the proprietary application code developed by [Ajit Dey].
 
+**12.Accessibility Statement**
+We are committed to making our application accessible and usable for everyone. We have built this application using modern Android accessibility standards to ensure an inclusive experience:
+
+Screen Reader Support: All interactive elements utilize built-in semantics (including readable labels and content descriptions for icons and buttons) to ensure smooth compatibility with screen readers like TalkBack.
+
+Scalable Text: Text sizes are built on the Material 3 TextStyle hierarchy, ensuring they scale correctly and cleanly in response to your device's system font-size settings.
+
+Accessible Touch Targets: All clickable areas meet or exceed the minimum 48×48dp requirement for ease of use.
+
+Color Independence: Color is never the sole method used to convey meaning or status. All status indicators include explicit text labels alongside their color coding.
+
+Motion Sensitivity: The app respects your system's "Reduce motion" accessibility settings automatically, and we do not use custom animations that cannot be disabled by the device.
+
+**Known Limitations**
+
+Permissions Configuration: The administrative permissions panel utilizes a dense matrix layout (role × module × 5 checkboxes). Because this is inherited from a complex web UI table layout, it may be difficult to navigate using TalkBack on devices with smaller screens. We are aware of this usability limitation for this specific screen. All other application screens pass standard TalkBack navigation checks.
+
 **12. Contact Information**
 
 For privacy-related inquiries, data requests, or to verify developer authorization, please contact:
