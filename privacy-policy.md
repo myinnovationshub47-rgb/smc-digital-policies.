@@ -57,7 +57,7 @@ We implement industry-standard technical safeguards to protect your data. This i
 
 Google Play requires a clear mechanism for users to request account deletion. To request the deletion of your staff account and associated personal data:
 
-* **In-App:** Navigate to Settings > Account > Request Account Deletion.
+* **In-App:** Navigate to the Profile Settings screen and select the account deletion option.
 * **Via Email:** Send an email to the Data Protection Officer with the subject "Account Deletion Request" and include your registered username.
 
 [Organization Abbreviation] will process the request within 30 days, subject to mandatory legal and [industry-specific, e.g., clinical audit] retention obligations.
@@ -70,18 +70,17 @@ This App is strictly for professional use by adult [Organization Abbreviation] s
 
 Material changes to this Privacy Policy will be communicated via in-app notifications or to registered staff email addresses at least 14 days before taking effect. The "Last updated" date at the top of this page reflects the most recent revision.
 
-**11. Contact Information**
+**11. Third-Party Licenses**
+This application utilizes various open-source libraries and components as compiled dependencies. The respective open-source licenses apply strictly to the original third-party library code and do not extend to the proprietary application code developed by [Ajit Dey].
+
+**12. Contact Information**
 
 For privacy-related inquiries, data requests, or to verify developer authorization, please contact:
 
-**[Name of Authorized Representative]**
+**[Ajit Dey]**
 
-[Title / Authorized App Developer]
+[App Developer]
 
-[Organization Name] ([Organization Abbreviation])
+Email: [myinnovationshub47@gmail.com]
 
-Address: [Organization Address]
-
-Email: [INSERT_OFFICIAL_EMAIL_HERE]
-
-Phone: [INSERT_OFFICIAL_PHONE_HERE]
+Phone: [9954387127]
